@@ -1,0 +1,11 @@
+{
+    "name": "oleg",
+    "age": 24,
+    "countries": [
+        {
+            "name": "Belarus",
+            "time": 24,
+            "cities": "Moscow"
+        }
+    ]
+}
